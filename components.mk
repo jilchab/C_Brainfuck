@@ -1,0 +1,5 @@
+TARGET_NAME:= TestC
+
+DEFINES:=
+
+INCLUDES:=
